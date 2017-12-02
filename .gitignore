@@ -1,0 +1,22 @@
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.gradle/
+.idea/
+campanha.iml
+gradle/
+gradlew
+gradlew.bat
+out/
