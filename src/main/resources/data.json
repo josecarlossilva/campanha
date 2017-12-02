@@ -1,0 +1,18 @@
+[
+  { "_class" : "br.com.campanha.domain.Campanha",
+    "id" : "CAMP-1001",
+    "nome" : "Campanha 1" ,
+    "timeCoracaoId" : "TIME-1001",
+    "inicioVigencia" : "2017-10-01",
+    "fimVigencia" : "2017-10-03"
+  },
+
+  { "_class" : "br.com.campanha.domain.Campanha",
+    "id" : "CAMP-1002",
+    "nome" : "Campanha 2" ,
+    "timeCoracaoId" : "TIME-1002",
+    "inicioVigencia" : "2017-10-01",
+    "fimVigencia" : "2017-10-02"
+  }
+
+]
